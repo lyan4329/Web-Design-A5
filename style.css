@@ -183,6 +183,7 @@ button:hover{
   background: rgb(255, 135, 135);
 }
 
+/* resizing to mobile size */
 }
 @media (max-width: 768px) {
 .button{
